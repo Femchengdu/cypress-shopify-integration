@@ -12,6 +12,6 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v2
         with:
-          # Specify Browser since container image is compile with Firefox
-          browser: firefox
+          # Specify Browser
+          browser: chrome
       - run: echo "🍏 This job's status is ${{ job.status }}."
