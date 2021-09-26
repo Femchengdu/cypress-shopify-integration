@@ -1,0 +1,10 @@
+config.yml
+node_modules
+config/settings_data.json
+assets/js_theme.js
+assets/js_vendor.js 
+asstes/css_theme.css.liquid
+.DS_Store
+npm-degug.log
+theme.lock
+
